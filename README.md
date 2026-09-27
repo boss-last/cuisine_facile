@@ -80,6 +80,16 @@ flutter build apk        # Build Android
 flutter build ios        # Build iOS
 ```
 
+## Captures d'écran
+
+| Accueil | Détail | Formulaire |
+|:---:|:---:|:---:|
+| ![Accueil](assets/screenshots/home.jpg) | ![Détail](assets/screenshots/detail.jpg) | ![Formulaire](assets/screenshots/form.jpg) |
+
+| Favoris | Paramètres |
+|:---:|:---:|
+| ![Favoris](assets/screenshots/favorites.jpg) | ![Paramètres](assets/screenshots/settings.jpg) |
+
 ## Stack technique
 
 - **Navigation** : [go_router](https://pub.dev/packages/go_router) ^14.2
